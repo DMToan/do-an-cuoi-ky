@@ -1,0 +1,31 @@
+body{
+	background-image: url('picture/web-wall.jpg');
+	background-size: cover;
+}
+#container{
+	margin-top: 20%;
+	margin-left: 30%;
+	width: 35%;
+}
+h2{
+	text-align: center;
+	color: #fff;
+	margin-bottom: 20px;
+}
+#inputEmail3{
+	opacity: 0.6;
+}
+#inputPassword3{
+	opacity: 0.6;
+}
+strong{
+	color: #f0f0f0;
+}
+#dangky {
+	color: #f0f0f0;
+	margin-left: 85px;
+	width: 200px;
+}
+#dangky a{
+	color: #f0f0f0;
+}

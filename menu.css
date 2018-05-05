@@ -1,0 +1,95 @@
+body{
+	background-color: #f0f0f0;
+}
+img #brand{
+	width: 130px;
+	height: auto;
+}
+#containt{
+	margin: 0 8%;
+	/*position: relative;*/
+}
+/*#menu{
+	position: fixed;
+}*/
+#HotProduct {
+	background-color: #ffffff;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#HotProduct ul{
+	list-style-type: none;
+}
+#HotProduct ul li{
+	display: inline-table;
+	width: 238.719px;
+	height: 281px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+#NewProduct {
+	background-color: #ffffff;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#NewProduct ul{
+	list-style-type: none;
+}
+#NewProduct ul li{
+	display: inline-table;
+	width: 238.719px;
+	height: 281px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+#MostView {
+	background-color: #ffffff;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#MostView ul{
+	list-style-type: none;
+}
+#MostView ul li{
+	display: inline-table;
+	width: 238.719px;
+	height: 281px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+#footer {
+	background-color: #ffffff;
+	margin-top: 5px;
+	height: 200px;
+}
+#footer ul{
+	list-style-type: none;
+}
+#footer ul li{
+	display: inline-table;
+	width: 400px;
+
+}
+
+#phone {
+	background-color: #ffffff;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#phone ul{
+	list-style-type: none;
+}
+#phone ul li{
+	display: inline-table;
+	width: 238.719px;
+	height: 281px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
